@@ -1,0 +1,30 @@
+{
+  "name":         "@archivistnerd/onkeypress",
+  "version":      "1.0.1",
+  "description":  "Archivist's onkeypress Package",
+  "copy":         "Copyright (c) 2020 Archivist-Nerd",
+  "main":         "onkeypress.js",
+  "scripts": {
+    "test":       "node example.js"
+  },
+  "keywords": [
+    "Archivist",
+    "Nerd",
+    "keypress"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Archivist-Nerd/node-onkeypress/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/Archivist-Nerd/node-onkeypress/issues"
+  },
+  "repository": {
+    "url": "https://github.com/Archivist-Nerd/node-onkeypress.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Archivist Nerd",
+    "email": "a.Nerd.Archivist@gmail.com",
+    "url": "https://github.com/Archivist-Nerd"
+  },
+  "license":      "MIT"
+}
