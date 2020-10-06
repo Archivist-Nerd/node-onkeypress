@@ -1,3 +1,6 @@
+/*
+        Copyright (c) 2020 Archivist-Nerd
+*/
 'use strict';
 /*
     exit on keypress
