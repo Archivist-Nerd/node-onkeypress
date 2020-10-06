@@ -1,7 +1,7 @@
 # node-onkeypress
-Archivist's onkeypress Package
-
 [![npm version](https://img.shields.io/npm/v/@archivistnerd/onkeypress.svg)](https://www.npmjs.com/package/@archivistnerd/onkeypress)
+
+Archivist Nerd's onkeypress Package
 
 > Calls a callback function after key has been pressed (terminal)
 

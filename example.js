@@ -1,6 +1,6 @@
 'use strict';
 
-const onKeypress = require('./onkeypress');
+const onKeypress = require('.');
 
 
 process.stdout.write(`Test onKeypress Package\n`)
